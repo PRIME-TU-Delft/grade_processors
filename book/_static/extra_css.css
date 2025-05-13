@@ -5,6 +5,14 @@
 .dataframe thead {
     color: var(--pst-color-text-base);
 }
+html[data-theme="dark"] .dataframe tbody {
+    mix-blend-mode: lighten !important;
+    filter: invert(1) hue-rotate(180deg) saturate(1.5);
+}
+
+:root {
+    --jp-rendermime-table-row-hover-background: var(--tud-yellow);
+}
 
 .jp-OutputArea-output {
     color: var(--pst-color-text-base);
