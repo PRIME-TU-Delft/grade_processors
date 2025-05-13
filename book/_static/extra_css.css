@@ -1,3 +1,11 @@
 .widget-html-content {
     color: var(--pst-color-text-base);
 }
+
+.dataframe thead {
+    color: var(--pst-color-text-base);
+}
+
+.jp-OutputArea-output {
+    color: var(--pst-color-text-base);
+}
