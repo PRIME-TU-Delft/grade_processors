@@ -1,3 +1,5 @@
 :root {
     --jp-widgets-color: var(--pst-color-text-base) !important;
+    --jp-ui-font-color1: var(--pst-color-text-base) !important;
+    --jp-content-font-color1: var(--pst-color-text-base) !important;
 }
