@@ -1,6 +1,6 @@
 # first list the packages you wish to download from PyPI
 teachbooks == 0.2.3 # depends on jupyter-book
-jupyterbook-patches == 1.9.1
+jupyterbook-patches == 1.10.0
 sphinx-image-inverter == 1.1.10
 download_link_replacer == 1.0.6
 sphinx-tudelft-theme == 1.2.0
