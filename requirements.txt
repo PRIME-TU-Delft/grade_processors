@@ -3,7 +3,7 @@ teachbooks == 0.2.3 # depends on jupyter-book
 jupyterbook-patches == 1.11.5
 sphinx-image-inverter == 1.1.11
 download_link_replacer == 1.0.6
-sphinx-tudelft-theme == 1.2.1
+sphinx-tudelft-theme == 1.2.2
 teachbooks-sphinx-tippy == 1.0.15
 
 # Now list the packages you want to download directly from GitHub
